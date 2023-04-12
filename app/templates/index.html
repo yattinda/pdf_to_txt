@@ -2,7 +2,11 @@
 {% block main %}
 <html>
     <body>
-    <h1>First</h1>
+        <h1>ファイルのアップロード</h1>
+        <form action="" method="POST" enctype="multipart/form-data">
+            <input type="file" name="file">
+            <input type="submit" value="アップロード">
+        </form>
     </body>
 </html>
 {% endblock %}
