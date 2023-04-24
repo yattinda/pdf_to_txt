@@ -15,6 +15,7 @@ def upload_file():
     if request.method == 'POST':
         file = request.files['file']
         print(to_txt(file))
+        return render_template('show_result.html', result_txt = to_txt(file))
     else:
         return render_template('index.html')
     
