@@ -1,11 +1,11 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "59092c20da348fa56a252a6b0f50bde074c5ab2897fd026f4cc39aa4c805c2ee"
+            "sha256": "3ad2ee4f6cc98a9aa9c75b5086019a00d440fc85d78a61a7065cd05e947e94ae"
         },
         "pipfile-spec": 6,
         "requires": {
-            "python_version": "3.11"
+            "python_version": "*"
         },
         "sources": [
             {
@@ -106,11 +106,11 @@
         },
         "pypdf": {
             "hashes": [
-                "sha256:dfb61fcccd4bc6d321aae612c01924b3c953aa5857e6e39d31e24dbb9b49da13",
-                "sha256:fa780c9464ec3b49fd16dabd110a40a291439bc6edd0f21f302add63c1f5ade5"
+                "sha256:0c34620e4bbceaf9632b6b7a8ec6d4a4d5b0cdee6e39bdb86dc91a8c44cb0f19",
+                "sha256:761ad6dc33abb78d358b4ae42206c5f185798f8b537be9b8fdecd9ee834a894d"
             ],
             "index": "pypi",
-            "version": "==3.7.1"
+            "version": "==3.8.1"
         },
         "werkzeug": {
             "hashes": [
