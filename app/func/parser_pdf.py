@@ -1,3 +1,4 @@
+# flake8: noqa
 # 引用元:https://qiita.com/Cartelet/items/6dcf525db8c3a7953524
 import re
 import unicodedata
